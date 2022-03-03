@@ -46,6 +46,7 @@ This will install all the dependencies of the project so far such as DiscordJS a
 Once they have finished installing you need to goto the [Discord Developer Portal](https://www.discord.com/developers/applications) and create an application
 
 Press new application: 
+
 ![image](https://i.ibb.co/K74dyXR/create-application.png)
 
 Then this will pop up on your screen, fill in the name and hit Create.
