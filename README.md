@@ -88,4 +88,6 @@ nodemon index.js
 ```
 that will also start the bot. For updates or commands that you might want to use then you can check out my Github [bonsall2004](https://www.github.com/bonsall2004) where I will be posting commands that I make and how to implement them into your bots.
 
+**Note: If you haven't set a avatar for your bot, due to new API updates then it will stop your embeds from sending because the avatar is 'null'**
+
 
