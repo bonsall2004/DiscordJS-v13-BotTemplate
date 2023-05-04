@@ -3,6 +3,8 @@
 
 This is a custom made Discord JS bot template made to help you create your first discord bot using Discord JS v13
 
+(Update: if you're installing this now, some parts of it might not work; you'll have to play around with which version of discord.js you're downloading)
+
 ## How to use:
 
 #### Get node if you haven't already
